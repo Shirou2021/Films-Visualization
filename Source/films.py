@@ -6,14 +6,18 @@ import sys
 
 # create few visual graphs to best analyze the csv file.
 # ideas:
-def heat_map():
-    return 
 
-def line_plot():
-    return   
+# data frame
+df = pd.read_csv('Best-Films.csv')
+df.info()
+# def heat_map():
+#     return 
 
-def bar_graph():
-    return  
+# def line_plot():
+#     return   
+
+# def bar_graph():
+#     return  
 
 # Might include other methods. But will do it on May 30th, 2022. Aim to finish
 # by Tuesday, so it can be used to fill intern applications.
