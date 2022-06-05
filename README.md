@@ -12,6 +12,6 @@ More info about the csv file can be found on IDMb.com.
 For testing, simply do python3 'name of the file'.py. Then the terminal or console
 will generated .png files, serve as visualizations.
 
-A quick side note: Due to the size of dataset is relatively small compared to others, 
-hence the pictures that are going to be generated might not look too fancy/good.
+A quick side note: Due to the size of dataset is relatively small compared to others. 
+Hence, the pictures that are going to be generated might not look too fancy/good.
 
